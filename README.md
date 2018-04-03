@@ -59,6 +59,10 @@ get the latest .phar from the release folder
 
 Video by @McpeBooster: https://youtu.be/0q098qCL_MQ
 
+[![Alt text](https://img.youtube.com/vi/mAABC0ZmmWk/0.jpg)](https://www.youtube.com/watch?v=mAABC0ZmmWk)
+
+Video by DarkiPlayzMC: https://youtu.be/mAABC0ZmmWk
+
 
 
 

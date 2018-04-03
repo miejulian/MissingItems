@@ -22,8 +22,7 @@ Added Custom Banners
 
 # Phar:
 
-get the latest .phar from the poggit page: https://poggit.pmmp.io/p/MissingItems/
-
+get the latest .phar from the release folder
 
 
 
@@ -56,7 +55,9 @@ get the latest .phar from the poggit page: https://poggit.pmmp.io/p/MissingItems
 
 # YouTube Video:
 
-none
+[![Alt text](https://img.youtube.com/vi/0q098qCL_MQ/0.jpg)](https://www.youtube.com/watch?v=0q098qCL_MQ)
+
+Video by @McpeBooster: https://youtu.be/0q098qCL_MQ
 
 
 
